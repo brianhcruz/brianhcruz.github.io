@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Geospatial Analyses - Baltimore City 
 
-[Project 1 Title](/sample_page)
+[Changes in Urban Tree Canopy and Violent Crime Rates](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

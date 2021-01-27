@@ -5,7 +5,7 @@
 ### Geospatial Analyses - Baltimore City 
 
 [Changes in Urban Tree Canopy and Violent Crime Rates](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<pdf/lab3_highestcrimerates.pdf>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

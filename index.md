@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Alaska Airports Webmap](file:///C:/Users/bhorl/OneDrive/Desktop/adv%20GIS/qgis2web_2021_02_01-15_41_15_749555/index.html)
+[Alaska Airports Webmap]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

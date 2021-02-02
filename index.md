@@ -11,10 +11,10 @@ This is a short sentence about that particular project.
 [<img src="project_probation/LOI_Transit_Isos.png?raw=true"/>](/project_probation/index)
 
 ---
-### [Peace Corps Service](Etude Report/etude)
+### [Peace Corps Service](Etude Report/index)
 I was a Peace Corps Volunteer, serving in Burkina Faso from 2016 - 2017.
 <br><br>
-[<img src="images/SAM_1595.jpg"/>](Etude Report/etude)
+[<img src="images/SAM_1595.jpg"/>](Etude Report/index)
 
 ---
 

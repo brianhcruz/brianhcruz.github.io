@@ -18,12 +18,12 @@ I was a Peace Corps Volunteer, serving in Burkina Faso from 2016 - 2017.
 
 ---
 
-### Category Name 2
+### Expeditions and Travels
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Bouldering Development in  Northeast Thailand and the Himalaya](images/20180225_131053.jpg)
+- [El Camino de Santiago: Lourdes to Porto](images/20171112_115828.jpg)
+- [El Sendero de La Sierra Huayhuash](images/SAM_1055.jpg)
+- [](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---

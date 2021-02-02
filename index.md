@@ -6,7 +6,7 @@
 <img src="images/Alaska_Geomorphology_Map1.png"/>
 
 ---
-[Alaska Airports Webmap]()
+[Alaska Airports Webmap](index.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

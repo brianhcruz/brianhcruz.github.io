@@ -2,8 +2,8 @@
 ---
 ## GES 687
 ---
-![Alaska Geomorphology Map](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Alaska Geomorphology Map]()
+<images/Alaska_Geomorphology_Map1.png>
 
 ---
 [Alaska Airports Webmap]()

@@ -1,5 +1,5 @@
 # Portfolio
-
+---
 ## GES 687
 ---
 ![Alaska Geomorphology Map](/pdf/sample_presentation.pdf)
@@ -12,7 +12,7 @@
 ---
 
 ### Geospatial Analyses - Baltimore City
-- [Changes in Urban Tree Canopy and Violent Crime Rates](pdf/lab3_highestcrimerates.pdf)
+[Changes in Urban Tree Canopy and Violent Crime Rates](pdf/lab3_highestcrimerates.pdf)
 <img src="images/lab3_highestcrimerates.pdf">
 ---
 

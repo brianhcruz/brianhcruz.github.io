@@ -13,6 +13,7 @@ This is a short sentence about that particular project.
 ---
 ### [Peace Corps Service](Etude Report/etude)
 I was a Peace Corps Volunteer, serving in Burkina Faso from 2016 - 2017.
+<br><br>
 [<img src="images/SAM_1595.jpg"/>](Etude Report/etude)
 
 ---

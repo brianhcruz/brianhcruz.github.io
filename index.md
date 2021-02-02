@@ -1,4 +1,4 @@
-# Portfolio
+## Portfolio
 ---
 ### GES 687
 ---

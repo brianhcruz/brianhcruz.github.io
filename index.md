@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
-### GES 687
+## GES 687
 ---
-[Alaska Geomorphology Map](/pdf/sample_presentation.pdf)
+![Alaska Geomorphology Map](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

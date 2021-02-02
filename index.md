@@ -7,7 +7,7 @@
 
 ---
 [Alaska Airports Webmap](index.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/airport webmap.png"/>
 
 ---
 

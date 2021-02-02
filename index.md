@@ -3,9 +3,9 @@
 ## Portfolio
 
 ---
-### [Project 1 Title](/project_probation/index)
-This is a short sentence about that particular project.
-[<img src="project_probation/LOI_Median_Income_with_Redlining.png?raw=true"/>](/project_probation/index)
+### [Etude de Milieu](Etude Report/Etude Report.odt)
+This is an ethnographic report conducted during the first three months of my Peace Corps service in Burkina Faso.
+[<img src="images/SAM_1595.jpg"/>](Etude Report/Etude Report.odt)
 
 ---
 ### [Project 2 Title](/project_probation/index)

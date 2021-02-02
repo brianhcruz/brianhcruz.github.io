@@ -1,8 +1,8 @@
 ## Portfolio
 
 ---
-### [Etude de Milieu](Etude Report/Etude Report.odt)
-This is an ethnographic report conducted during the first three months of my Peace Corps service in Burkina Faso.
+### [Etude de Milieu]()
+
 [<img src=""/>]()
 
 ---
@@ -12,7 +12,7 @@ This is a short sentence about that particular project.
 
 ---
 ### [Peace Corps Service](Etude Report/index)
-I was a Peace Corps Volunteer, serving in Burkina Faso from 2016 - 2017.
+Learn about my Peace Corps service in Burkina Faso from 2016 - 2017.
 <br><br>
 [<img src="images/SAM_1595.jpg"/>](Etude Report/index)
 

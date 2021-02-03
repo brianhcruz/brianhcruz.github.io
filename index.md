@@ -1,4 +1,4 @@
-## Portfolio
+## GIS Portfolio
 
 ---
 ### [Etude de Milieu]()
@@ -10,6 +10,7 @@
 A regional exploration of the risks that economically vulnerable populations face from projected sea level rise models.
 [<img src="coastal_flooding/Horlick-Cruz_Lab2_five_foot_map.jpg"/>](coastal_flooding/project2.md)
 
+## Other Professional Experience
 ---
 ### [Peace Corps Service](etude_project/project_page.md)
 Learn about my Peace Corps service in Burkina Faso from 2016 - 2017.
@@ -17,7 +18,7 @@ Learn about my Peace Corps service in Burkina Faso from 2016 - 2017.
 
 ---
 
-### Expeditions and Travels
+## Expeditions and Travels
 
 - [Bouldering Development in  Northeast Thailand and the Himalaya]
 <img src="images/20180225_131053.jpg">

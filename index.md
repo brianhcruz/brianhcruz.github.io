@@ -6,14 +6,13 @@
 [<img src=""/>]()
 
 ---
-### [Project 2 Title](/project_probation/index)
-This is a short sentence about that particular project.
-[<img src="project_probation/LOI_Transit_Isos.png?raw=true"/>](/project_probation/index)
+### [Mapping Social Vulnerability and Coastal Flooding in Eastern Maryland](coastal_flooding/project2.md)
+A regional exploration of the risks that economically vulnerable populations face from projected sea level rise models.
+[<img src="coastal_flooding/Horlick-Cruz_Lab2_five_foot_map.jpg"/>](coastal_flooding/project2.md)
 
 ---
 ### [Peace Corps Service](etude_project/project_page.md)
 Learn about my Peace Corps service in Burkina Faso from 2016 - 2017.
-<br><br>
 [<img src="images/SAM_1595.jpg"/>](Etude Report/index)
 
 ---

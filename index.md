@@ -1,9 +1,9 @@
 ## GIS Portfolio
 
 ---
-### [Etude de Milieu]()
-
-[<img src=""/>]()
+### [Examining the Relationships Between Covid-19 Rates and Outdoor Recreation in Maryland()
+(covid_mapping/project3.md)
+[<img src="covid_mapping/mapping covid.png"/>](covid_mapping/project3.md)
 
 ---
 ### [Mapping Social Vulnerability and Coastal Flooding in Eastern Maryland](coastal_flooding/project2.md)

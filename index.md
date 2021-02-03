@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></assets/css/style.css>
+
 ## GIS Portfolio
 
 ---

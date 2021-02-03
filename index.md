@@ -1,7 +1,7 @@
 ## GIS Portfolio
 
 ---
-### [Examining the Relationships Between Covid-19 Rates and Outdoor Recreation in Maryland()
+### [Examining the Relationships Between Covid-19 Rates and Outdoor Recreation in Maryland]()
 (covid_mapping/project3.md)
 [<img src="covid_mapping/mapping covid.png"/>](covid_mapping/project3.md)
 
@@ -10,6 +10,7 @@
 A regional exploration of the risks that economically vulnerable populations face from projected sea level rise models.
 [<img src="coastal_flooding/Horlick-Cruz_Lab2_five_foot_map.jpg"/>](coastal_flooding/project2.md)
 
+---
 ## Other Professional Experience
 ---
 ### [Peace Corps Service](etude_project/project_page.md)

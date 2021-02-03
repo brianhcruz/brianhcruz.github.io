@@ -1,8 +1,7 @@
 ## GIS Portfolio
 
 ---
-### [Examining the Relationships Between Covid-19 Rates and Outdoor Recreation in Maryland]()
-(covid_mapping/project3.md)
+### [Examining the Relationships Between Covid-19 Rates and Outdoor Recreation in Maryland](covid_mapping/project3.md)
 [<img src="covid_mapping/mapping covid.png"/>](covid_mapping/project3.md)
 
 ---

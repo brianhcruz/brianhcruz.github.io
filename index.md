@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("/assets/css/style.css"))
+<link href="style.css" rel="stylesheet"></assets/css/style.css>
 ## GIS Portfolio
 
 ---

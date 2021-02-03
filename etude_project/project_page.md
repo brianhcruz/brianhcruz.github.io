@@ -1,6 +1,7 @@
 ## Maana Waana?
 
 I was an education volunteer with the U.S. Peace Corps, serving in the village of Kossouka in the north of Burkina Faso. My volunteer cohort was the last one to close service (COS) in the country, as the Peace Corps conducted a countrywide program evacuation in September, 2017 due to a growing threat of extremist activity in the region.
+
 <img src="images/SAM_1360.jpg"/>
 
 ### 1. L'Etude de Milieu
@@ -12,7 +13,6 @@ Following two months of intensive language and intercultural communication train
 ### 2. Teaching
 
 My primary assignment was to act as the head English teacher for the 5eme classes in the village (the equivalent of American 6th grade). This required me to work between two schools, with each class having over seventy students. The challenges were manifold, whether it was communicating new vocabulary and grammar concepts across two--and often three--languages, designing lessons with no resources apart from chalk and scarcely legible chalkboards, or chasing a stray donkey out of the classroom. The work was rewarding, however, as I cultivated strong relationships with many of my students and colleagues as we worked and learned together.
-
 
 <img src="images/20161109_113138.jpg"/>
 

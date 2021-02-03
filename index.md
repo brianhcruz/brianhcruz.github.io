@@ -1,3 +1,4 @@
+(setq markdown-css-paths '("/assets/css/style.css"))
 ## GIS Portfolio
 
 ---
@@ -32,4 +33,3 @@ Learn about my Peace Corps service in Burkina Faso from 2016 - 2017.
 
 ---
 
-<link href="style.css" rel="stylesheet" type="text/css"

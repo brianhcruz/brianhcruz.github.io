@@ -17,9 +17,9 @@
 ---
 ## Other Projects
 ---
-### [Peace Corps Service](etude_project/project_page.md)
+### Peace Corps Service
 Learn about my Peace Corps service in Burkina Faso from 2016 - 2017.
-[<img src="images/SAM_1595.jpg"/>](Etude Report/index)
+[<img src="images/SAM_1595.jpg"/>](etude_project/project_page.md)
 
 ---
 

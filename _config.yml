@@ -1,13 +1,13 @@
-title: Brian Horlick-Cruz # your name (or website title) here
-logo: "images/SAM_1680.jpg" # your photo (or logo) here
-description: > #(remove <br> elements if you don't need line breaks)
+title: Brian Horlick-Cruz 
+logo: "images/SAM_1680.jpg" 
+description: > 
   <br><br>
   Shriver Peaceworker Fellow<br>
+  
   MS Candidate, Geography & Environmental Systems<br>
   University of Maryland, Baltimore County<br>
-  RPCV Burkina Faso, 2016-2017
-  <br><br>
-
   
+website: [Linkedin}(https://www.linkedin.com/in/brian-horlick-cruz-623916197/)
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

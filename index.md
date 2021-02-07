@@ -12,7 +12,7 @@
 
 ---
 ### Food Accessibility, Race, and Income in Baltimore City
-[<img src="food_maps/food&race.jpg">](food_maps/project4)
+[<img src="food_maps/food&race.jpg">](food_maps/project4.md)
 
 ---
 ## Other Projects

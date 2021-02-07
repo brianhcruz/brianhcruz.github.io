@@ -6,25 +6,6 @@
 body {
   background-image: linear-gradient(to bottom right, #000000, #02324f)
 }
-.column {
-  float: left;
-}
-
-/* Left and right column */
-.column.side {
-  width: 25%;
-}
-
-/* Middle column */
-.column.side {
-  width: 75%;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column.side, .column.middle {
-    width: 100%;
-
 a {
  color:#e8e8e8;
  text-align:center 

@@ -6,7 +6,6 @@
 ## GIS Projects
 ---
 
----
 ### Covid-19 Rates and Outdoor Recreation in Maryland
 
 This study visualized the changes in use of Maryland's green spaces during the COVID-19 Pandemic

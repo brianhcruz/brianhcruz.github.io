@@ -8,7 +8,7 @@ I was an education volunteer with the U.S. Peace Corps, serving in the village o
 
 Following two months of intensive language and intercultural communication training, all Peace Corps volunteers spend their first three months in their assigned work site conducting a needs assessment study while developing a strong rapport with the locals.  [This project](etude_project/Etude Report.odt) offered me an opportunity to put all of my undergraduate ethnographic research methods into practice, investigating the history of the village, conducting in-depth interviews, facilitating focus groups, and participating in daily village activities.
 
-<img src="SAM_1179.jpg">
+<img src ="SAM_1179.jpg">
 
 ### Teaching
 

@@ -6,11 +6,11 @@
 ## GIS Projects
 ---
 
-### [Covid-19 Rates and Outdoor Recreation in Maryland](covid_mapping/project3.md)
+### [Covid-19 Rates and Outdoor Recreation in Maryland](covid_mapping/index.md)
 
 This study visualized the changes in use of Maryland's green spaces during the COVID-19 Pandemic and compared them with local rates of infection.
 
-[<img src="covid_mapping/mapping covid.png"/>](covid_mapping/project3.md)
+[<img src="covid_mapping/mapping covid.png"/>](covid_mapping/index.md)
 
 ---
 ### [Social Vulnerability and Coastal Flooding in Eastern Maryland](coastal_flooding/index.md)
@@ -20,11 +20,11 @@ Using a vulnerability index, this project assessed the social and physical conse
 [<img src="coastal_flooding/Horlick-Cruz_Lab2_five_foot_map.jpg"/>](coastal_flooding/index.md)
 
 ---
-### [Food Accessibility, Race, and Income in Baltimore City](food_maps/food.md)
+### [Food Accessibility, Race, and Income in Baltimore City](food_maps/index.md)
 
 This map assessed access to healthy foods based on density of various food resources at the neighborhood level.
 
-[<img src="food_maps/food&race.jpg">](food_maps/food.md)
+[<img src="food_maps/food&race.jpg">](food_maps/index.md)
 
 ---
 ## Other Projects

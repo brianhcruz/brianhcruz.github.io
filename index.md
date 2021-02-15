@@ -20,11 +20,11 @@ Using a vulnerability index, this project assessed the social and physical conse
 [<img src="coastal_flooding/Horlick-Cruz_Lab2_five_foot_map.jpg"/>](coastal_flooding/project2.md)
 
 ---
-### [Food Accessibility, Race, and Income in Baltimore City](food_maps/project4.md)
+### [Food Accessibility, Race, and Income in Baltimore City](food_maps/food.md)
 
 This map assessed access to healthy foods based on density of various food resources at the neighborhood level.
 
-[<img src="food_maps/food&race.jpg">](food_maps/project4.md)
+[<img src="food_maps/food&race.jpg">](food_maps/food.md)
 
 ---
 ## Other Projects

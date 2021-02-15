@@ -17,5 +17,5 @@
 ---
 <p> Chi-2 tests of independence as well as OLS regression analyses indicated no statistically significant relationships between increases in park use or high park visitation and COVID-19 case numbers; however, there was a strong (r = 0.765) relationship between COVID-19 cases and zip code population. This supports the notion that the spread of COVID-19 is not strongly associated with outdoor recreation and public parks use, assuming that standard social distancing protocols are followed. 
 
-
+<img src="c5.png">   <img src="c4.png">
 

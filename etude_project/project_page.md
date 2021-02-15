@@ -2,7 +2,7 @@
 
 I was an education volunteer with the U.S. Peace Corps, serving in the village of Kossouka in the north of Burkina Faso. My volunteer cohort was the last one to close service (COS) in the country, as the Peace Corps conducted a countrywide program evacuation in September, 2017 due to a growing threat of extremist activity in the region.
 
-<img src="SAM_1360.jpg">
+<img src="/images/SAM_1360.jpg">
 
 ### L'Etude de Milieu
 

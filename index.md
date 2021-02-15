@@ -31,7 +31,7 @@ This map assessed access to healthy foods based on density of various food resou
 ---
 ### [Peace Corps Service](etude_project/project_page.md)
 Learn about my Peace Corps service in Burkina Faso from 2016 - 2017.
-[<img src="images/SAM_1595.jpg"/>](etude_project/project_page.md)
+[<img src="images/SAM_1595.jpg"/>](etude_project/project_page.md) 
 
 ---
 

@@ -6,6 +6,13 @@
 ## GIS Projects
 ---
 
+### [9 Decades of Wyoming Energy](wyoming_energy/wyoming.md)
+
+Animating Wyoming's Changing Energy Infrastructure using QGIS and GIMP
+
+[<img src="wyoming_energy/wyoming_energy1.gif"/>](wyoming_energy/wyoming.md)
+
+
 ### [Covid-19 Rates and Outdoor Recreation in Maryland](covid_mapping/index.md)
 
 This study visualized the changes in use of Maryland's green spaces during the COVID-19 Pandemic and compared them with local rates of infection.

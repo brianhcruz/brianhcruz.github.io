@@ -12,7 +12,7 @@ Animating Wyoming's energy production developments from 1922 - 2011 using QGIS a
 
 [<img src="wyoming_energy/wyoming_energy1.gif"/>](wyoming_energy/index.md)
 
-
+---
 ### [Covid-19 Rates and Outdoor Recreation in Maryland](covid_mapping/index.md)
 
 Visualizing the changes in use of Maryland's green spaces during the COVID-19 Pandemic and their relationships with local infection rates
@@ -36,8 +36,17 @@ Assessing access to healthy foods based on the density of various food resources
 ---
 ## Other Projects
 ---
+
+### [Shriver Peaceworker Digital Stories](peaceworker/index.md)
+
+Check out the digital stories I produced as a component of my graduate fellowship at the University of Maryland, Baltimore County
+
+[<img src="images/SAM_1360.jpg"/>](peaceworker/index.md)
+
 ### [Peace Corps Service](etude_project/project_page.md)
-Learn about my Peace Corps service in Burkina Faso from 2016 - 2017.
+
+Learn about my Peace Corps service in Burkina Faso from 2016 - 2017
+
 [<img src="images/SAM_1595.jpg"/>](etude_project/project_page.md) 
 
 ---

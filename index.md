@@ -8,7 +8,7 @@
 
 ### [9 Decades of Wyoming Energy](wyoming_energy/wyoming.md)
 
-Animating Wyoming's changing energy infrastructure
+Animating Wyoming's energy infrastructure developments from 1922 - 2011 using QGIS and GIMP.
 
 [<img src="wyoming_energy/wyoming_energy1.gif"/>](wyoming_energy/wyoming.md)
 

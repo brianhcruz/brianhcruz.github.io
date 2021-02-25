@@ -6,11 +6,11 @@
 ## GIS Projects
 ---
 
-### [9 Decades of Wyoming Energy](wyoming_energy/wyoming.md)
+### [9 Decades of Wyoming Energy](wyoming_energy/index.md)
 
 Animating Wyoming's energy infrastructure developments from 1922 - 2011 using QGIS and GIMP.
 
-[<img src="wyoming_energy/wyoming_energy1.gif"/>](wyoming_energy/wyoming.md)
+[<img src="wyoming_energy/wyoming_energy1.gif"/>](wyoming_energy/index.md)
 
 
 ### [Covid-19 Rates and Outdoor Recreation in Maryland](covid_mapping/index.md)

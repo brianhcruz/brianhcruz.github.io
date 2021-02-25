@@ -6,16 +6,16 @@
 ## GIS Projects
 ---
 
-### [9 Decades of Wyoming Energy](wyoming_energy/index.md)
+### [9 Decades of Wyoming Energy Production](wyoming_energy/index.md)
 
-Animating Wyoming's energy infrastructure developments from 1922 - 2011 using QGIS and GIMP.
+Animating Wyoming's energy production developments from 1922 - 2011 using QGIS and GIMP
 
 [<img src="wyoming_energy/wyoming_energy1.gif"/>](wyoming_energy/index.md)
 
 
 ### [Covid-19 Rates and Outdoor Recreation in Maryland](covid_mapping/index.md)
 
-This study visualized the changes in use of Maryland's green spaces during the COVID-19 Pandemic and compared them with local rates of infection.
+Visualizing the changes in use of Maryland's green spaces during the COVID-19 Pandemic and their relationships with local infection rates
 
 [<img src="covid_mapping/mapping covid.png"/>](covid_mapping/index.md)
 
@@ -29,7 +29,7 @@ Using a vulnerability index, this project assessed the social and physical conse
 ---
 ### [Food Accessibility, Race, and Income in Baltimore City](food_maps/index.md)
 
-This map assessed access to healthy foods based on density of various food resources at the neighborhood level.
+Assessing access to healthy foods based on the density of various food resources at the neighborhood level
 
 [<img src="food_maps/food&race.jpg">](food_maps/index.md)
 

@@ -31,7 +31,7 @@ Using a vulnerability index, this project assessed the social and physical conse
 
 Assessing access to healthy foods based on the density of various food resources at the neighborhood level
 
-[<img src="food_maps/food&race.jpg">](food_maps/index.md)
+[<img src="food_maps/supermarket.jpg">](food_maps/index.md)
 
 ---
 ## Other Projects

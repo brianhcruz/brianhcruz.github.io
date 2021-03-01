@@ -32,7 +32,7 @@ Using a vulnerability index, this project assessed the social and physical conse
 
 ### [Food Accessibility, Race, and Income in Baltimore City](food_maps/index.md)
 
-A city with a long history of food access inequality, this project interrogated current accessibility to healthy food sources.
+A city with a long history of food access inequality, this project interrogated current accessibility of healthy food resources across Baltimore.
 
 [<img src="food_maps/supermarket.jpg">](food_maps/index.md)
 

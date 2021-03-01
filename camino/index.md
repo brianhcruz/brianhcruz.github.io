@@ -1,6 +1,6 @@
 ## Sometimes, life takes you by surprise...
 
-<p>In early September, 2017, I found myself alone and out of work on the streets of Paris with nearly a year's worth of professional plans completely lost. My Peace Corps program had just been evacuated due to a serious kidnapping threat against our volunteers by religious rebel groups in Burkina's northern regions. After a few tumultuous and fast-paced days, I finally had some time to reflect on everything that had happened. It was a painful event, really: daily exchanges with my friends and neighbors in Kossouka were suddenly wiped away from my life; I had no immediate job prospects or sense of direction; I missed my cat.<p>
+In early September, 2017, I found myself alone and out of work on the streets of Paris with nearly a year's worth of professional plans completely lost. My Peace Corps program had just been [evacuated due to a serious kidnapping threat against our volunteers by religious rebel groups in Burkina's northern regions.](https://www.peacecorps.gov/news/library/peace-corps-burkina-faso-volunteers-evacuated-safely/) After a few tumultuous and fast-paced days, I finally had some time to reflect on everything that had happened. It was a painful event, really: daily exchanges with my friends and neighbors in Kossouka were suddenly wiped away from my life; I had no immediate job prospects or sense of direction; I missed my cat.
 
 <img src="tiiga.jpg">
 Tiiga, my Burkinabe cat.

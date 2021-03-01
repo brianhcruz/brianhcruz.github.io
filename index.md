@@ -38,7 +38,7 @@ Assessing access to healthy foods based on the density of various food resources
 
 ---
 
-## Other Projects
+# Other Projects
 ---
 
 ### [Shriver Peaceworker Digital Stories](peaceworker/index.md)

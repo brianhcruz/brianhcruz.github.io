@@ -1,7 +1,7 @@
 
 ## How Did the COVID-19 Pandemic Impact Green Spaces in Maryland?
 ---
-<p>This analysis aimed to answer two principal questions: (1) how has park visitation changed in relation to the COVID-19 pandemic and its associated shutdowns, and (2) what are the relationships between park visitation and regional trends in COVID-19 cases? We approached these questions using data from a the Maryland State Parks Office, the Maryland Open Data Portal, and the Maryland State COVID-19 data portal.<p>
+<p>This analysis aimed to answer two principal questions: (1) how has park visitation changed in relation to the COVID-19 pandemic and its associated shutdowns, and (2) what are the relationships between park visitation and regional trends in COVID-19 cases? I approached these questions using data from a the Maryland State Parks Office, the Maryland Open Data Portal, and the Maryland State COVID-19 data portal.<p>
 
 
 

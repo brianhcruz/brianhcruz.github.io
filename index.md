@@ -16,7 +16,7 @@ Animating Wyoming's energy production developments from 1922 - 2011 using QGIS a
 
 ### [Covid-19 Rates and Outdoor Recreation in Maryland](covid_mapping/index.md)
 
-Visualizing the changes in use of Maryland's green spaces during the COVID-19 Pandemic and their relationships with local infection rates
+This study visualized the relationships between outdoor recreation and local COVID-19 infection rates using regression analyses.
 
 [<img src="covid_mapping/mapping covid.png"/>](covid_mapping/index.md)
 
@@ -32,7 +32,7 @@ Using a vulnerability index, this project assessed the social and physical conse
 
 ### [Food Accessibility, Race, and Income in Baltimore City](food_maps/index.md)
 
-Assessing access to healthy foods based on the density of various food resources at the neighborhood level
+A city with a long history of food access inequality, this project interrogated current accessibility to healthy food sources.
 
 [<img src="food_maps/supermarket.jpg">](food_maps/index.md)
 
@@ -43,7 +43,7 @@ Assessing access to healthy foods based on the density of various food resources
 
 ### [Shriver Peaceworker Digital Stories](peaceworker/index.md)
 
-Check out the digital stories I produced as a component of my graduate fellowship at the University of Maryland, Baltimore County
+Check out the digital stories I produced as part of my graduate fellowship at the University of Maryland, Baltimore County
 
 [<img src="images/SAM_1360.jpg"/>](peaceworker/index.md)
 

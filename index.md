@@ -60,7 +60,7 @@ Learn about my Peace Corps service in Burkina Faso from 2016 - 2017
 ## Travels and Expeditions
 
 [El Camino de Santiago: Lourdes to Porto](camino/index.md)
-[<img src="images/20171112_115828.jpg">]((camino/index.md)
+[<img src="images/20171112_115828.jpg">](camino/index.md)
 
 ---
 

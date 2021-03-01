@@ -7,7 +7,7 @@ Tiiga, my Burkinabe cat.
 
 <p>After visiting a few friends and fellow volunteers across the country, I decided to head south to "get in touch with my roots." I had always wanted to visit the town of Foix in the foothills of the Pyrenees, where my great grandfather was born and raised before emigrating to Puerto Rico. Finally having the time and means to do so, I hitched my way to the south in an effort to retrace my great grandfather's footsteps.<p>
   
-<p>Upon reaching Foix, I felt that my mind had calmed, and I felt a desire to spend some extended time in deep reflection; I felt inspired to walk.<p>
+<p>Upon reaching Foix, I began to feel the need to spend some extended time in deep reflection; I felt inspired to walk.<p>
   
  <img src="foix.jpg">
  The castle at Foix

@@ -10,7 +10,7 @@
 
 This webmap is setting the foundation for a future analysis of equity and access to Arizona's public lands.
 
-[<img src="lab6/lab6_pic.png"/>](lab6/webmap.html)
+[<img src="lab6/lab6_pic.png"/>](lab6/lab6_webmap/index.html)
 
 ---
 

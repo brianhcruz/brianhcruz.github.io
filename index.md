@@ -6,11 +6,11 @@
 ## GIS Projects
 ---
 
-### [Cities, Census Tracts, and Tribal Lands in Southern Arizona](lab6/lab6_webmap/index.html)
+### [Cities, Census Tracts, and Tribal Lands in Southern Arizona](lab5/lab5.html)
 
 This webmap is setting the foundation for a future analysis of equity and access to Arizona's public lands.
 
-[<img src="lab6/lab6_pic.png"/>](lab6/lab6_webmap/index.html)
+[<img src="lab6/lab6_pic.png"/>](lab5/lab5.html)
 
 ---
 

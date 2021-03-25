@@ -7,10 +7,10 @@ Data were then processed in QGIS. The point data for rock climbing routes were f
 
 ### Click any of the images to view an interactive web map of the data 
 
-[<img src="az_climbing_sites_take1.png">](project1_486/project1_webmap/webmap.html)
+[<img src="az_climbing_sites_take1.png">](project1_486/project1_webmap/map.html)
 Figure 1-Established Rock Climbing Sites in Arizona
  
-[<img src="az_mining_and_deposits.png">](project1_486/webmap.html)
+[<img src="az_mining_and_deposits.png">](project1_486/map.html)
 Figure 2- Porphyry Copper Deposits and Active Copper Mines in Arizona. Copper deposits are shown with 5-kilometer buffers.
 
 For the analysis, the distance between both rock climbing sites and porphyry deposits and rock climbing sites and active mines were measured using QGIS’s “distance to nearest hub” tool. This produced two new point datasets which included these distance measures. New variables were then created to categorize the potential threats that mining activities pose to climbing sites based on their proximity to copper deposits and mines. These categories were assigned values of 0 – 3 and labeled as: high risk (within 5,000 meters of mines or deposits); moderate risk (within 5,001 – 8,000 meters); low risk (8,001 – 10,000 meters); and no risk (more than 10,000 meters away). The attribute tables of these two datasets were thereafter joined, and the two risk fields (risk from deposits and risk from active mines) were added together to create a cumulative risk field. These categories ranged in values from 0 – 6, with 6 being climbing sites with the highest proximity to copper deposits and active mining operations.

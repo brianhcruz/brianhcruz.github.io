@@ -6,6 +6,14 @@
 ## GIS Projects
 ---
 
+### [Rock Climbers vs. Big Copper](project1_486/index.md)
+
+In light of recent battles over federally protected recreation resources in Arizona, this study aimed to assess the threat of mining-driven destruction of popular rock climbing destinations.
+
+[<img src="project1_486/az_route_threats.png">](project1_486/index.md)
+
+---
+
 ### [9 Decades of Wyoming Energy Production](wyoming_energy/index.md)
 
 Animating Wyoming's energy production developments from 1922 - 2011 using QGIS and GIMP

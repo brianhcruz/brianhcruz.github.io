@@ -7,7 +7,7 @@ Data were then processed in QGIS. The point data for rock climbing routes were f
 
 ### Click any of the images to view an interactive web map of the data 
 
-[<img src="az_climbing_sites_take1.png">](project1_webmap/webmap.html)
+[<img src="az_climbing_sites_take1.png">](project1_486/project1_webmap/webmap.html)
 Figure 1-Established Rock Climbing Sites in Arizona
  
 [<img src="az_mining_and_deposits.png">](project1_486/webmap.html)

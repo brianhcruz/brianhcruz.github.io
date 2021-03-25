@@ -6,7 +6,7 @@ Data on Arizona’s rock climbing sites were collected from [Mountain Project](h
 Data were then processed in QGIS. The point data for rock climbing routes were first dissolved based on an attribute indicating their locations, which in this case were particular climbing features such as cliffs, small mountains, and boulders fields. Copper deposits were clipped to display only those within Arizona state lines, while active copper mines were extracted from the AZGS active mine file. Ultimately, 1,711 distinct climbing features were mapped along with 39 porphyry copper deposits and 18 active copper mines. 
 
 ### Click any of the images below for an interactive webmap.
-[<img src="az_climbing_sites_take1.png">](brianhcruz.github.io/project1_486/project1_webmap/webmap.html)
+[<img src="az_climbing_sites_take1.png">](https://brianhcruz.github.io/project1_486/project1_webmap/webmap.html#6/34.058/-109.935)
 Figure 1-Established Rock Climbing Sites in Arizona
  
 [<img src="az_mining_and_deposits.png">](brianhcruz.github.io/project1_486/project1_webmap/webmap.html)

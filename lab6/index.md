@@ -12,7 +12,7 @@ date: 2021/04/10
 
 ## Setup
 
-To begin, I loaded the packages required to download and process the data. The tidyverse package is a collection of other packages which facilitate general data science functions, while the tidycensus packages facilitate easy downloading of Census Bureau data for analysis and manipulation with tidyverse features. The sf package allows reading and encoding spatial vector data. A personal API key is also required to be able to download Census Bureau data with the tidycensus package. 
+To begin, I loaded the packages required to download and process the data. The 'tidyverse package' is a collection of other packages which facilitate general data science functions, while the 'tidycensus' packages facilitate easy downloading of Census Bureau data for analysis and manipulation with 'tidyverse' features. The 'sf' package allows reading and encoding spatial vector data. A personal API key is also required to be able to download Census Bureau data with the tidycensus package. 
 
 ```{r}
 
@@ -24,7 +24,7 @@ library(sf)
 
 options(tigris_class = "sf")
 options(tigris_use_cache = TRUE)
-census_api_key("baf2fc7668ed54084f5c262bbdb1dbe2a88a9161") #use your own personal API Key here
+census_api_key("XXXXXXX") #use your own personal API Key here
 
 ```
 ## Downloading Census Data
@@ -83,7 +83,7 @@ wy_poverty_line_09$per_pop <- wy_poverty_line_09$pop_below_pov_lineE/wy_poverty_
 
 ## Join the two files and calculate the change over time in percentages of the population whose earnings were below the federal poverty line.
 
-Finally, a new dataset was created by joining the data from our two starting ones. This one is labeled "wy_poverty_line", and is made by executing a left join to pair the tables based on a common variable (GEOID). The last transformation entailed calculating the change over time in the poverty levels of the counties, done by subtracting the 2005 - 2009 data from the 2015 - 2019 data. This generated a new column (labeled "change") which displays the net change in percentage of people who earned poverty wages. Positive percentages show increases in poverty levels, while negative ones indicate decreases.
+Finally, a new dataset was created by joining the data from our two starting ones. This one is labeled 'wy_poverty_line', and is made by executing a left join to pair the tables based on a common variable (GEOID). The last transformation entailed calculating the change over time in the poverty levels of the counties, done by subtracting the 2005 - 2009 data from the 2015 - 2019 data. This generated a new column (labeled 'change') which displays the net change in percentage of people who earned poverty wages. Positive percentages show increases in poverty levels, while negative ones indicate decreases.
 
 ```{r}
 

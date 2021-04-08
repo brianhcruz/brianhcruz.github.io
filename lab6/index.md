@@ -2,7 +2,7 @@
 title: Lab 6 R Script
 subtitle: Poverty Levels and Energy Production Facilities in Wyoming
 output:
-        html_notebook
+        html_document:
                 keep md: true
 author: Brian Horlick-Cruz (bhorlick16@gmail.com)
 date: 2021/04/10

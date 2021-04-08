@@ -104,3 +104,10 @@ wy_poverty_line <- st_transform(wy_poverty_line, 3857) # Reproject the shapefile
 
 st_write(wy_poverty_line, "wy_pov_change.geojson")
 ```
+
+## Analysis in QGIS
+
+The poverty level data was imported into QGIS as a set of polygons. Two new sets of polygons displaying the counts of wind and coal energy production plants were then created using the *count points in polygons* tool. These poygon layers were then laid over the polygons with the poverty level data and each were symbolized in complementary graduated color schemes based on examples by [Joshua Stevens](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/). The power production count layers were rendered with the *multiply* option which blends the colors of both top and bottom layers, and then bivariate legends were generated with the *bivariate legend* plugin.
+
+<img src = "maps/wy_wind_poverty.png">
+<img src = "maps/wy_coal_poverty.png">

@@ -17,14 +17,16 @@ point data on power generation plants was sourced from the [Wyomigng Geospatial 
 
 Percentages of county populations who earned incomes below the poverty line in the ACS5 periods of study had to be calculated. This was done in R by downloading the total population estimates of the counties along with the estimates of people within the counties who had earned incomes below the federal poverty line in those years, and dividing the latter by the former. Afterwards, data from the 2005 - 2009 study was joined to the 2015 - 2019 study using a left join, and the change over time in percentages of county populations whose incomes were below the poverty line were calculated by subtracting 2005 - 2009 data from the 2015 - 2019 data. A new variable was generated in the final combined dataset showing this. Then, the dataset was saved as a .geojson file and imported to QGIS for analysis.
 
+# Analysis
+
 In QGIS, the point data showing Wyoming's power generation sources was imported, and two new layers were generated from selections of power plants, showing either only wind energy production sites or coal energy production sites, then the poverty level data was imported. The "count points in polygons" feature was used to create two new polygon layers showing the counties with total counts of the wind and coal production facilities in each county. Finally, two choropleth maps were produced by overlaying the power plant facility count polygons over the poverty level polygons, creating a bivariate color scheme using the "multiply" rendering setting for the top layer. Bivariate legends were created using the "Bivariate Legend" plugin, and color schemes were based on sample schemes by [Joshua Stevens](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/). 
 
-# Analysis
-What did you learn? What is the **analysis** you'll be performing on your data sets? You may need to explain some of your R code not explained above.
 
 
 # Results
 
-One new geojson file will be created: a geographic feature that has data on county population and poverty levels from the ACS5 2005 - 2009 and 2015 - 2019 study periods and a variable showing how they have changed over time. This file will be located in the bin folder. Additionally, two bivariate maps showing poverty levels and counts of power production sites are located in the Maps folder.
+17 of Wyoming's 23 counties saw increases in estimates of people earning wages below the poverty line between the 2005 - 2009 and 2015 - 2019 ACS5 study periods. Of these 17, 5 featured coal-fueled power plants: Weston County (1 coal power plant, 6.6% increase in poverty), Campbell County (7 coal power plants, 6% increase in poverty), Sweetwater County (3 coal power plants, 4% increase in poverty), Converse County (1 coal power plant, 2.8% increase in poverty), and Platte County (1 coal power plant, 2.7% increase in poverty). 5 counties with wind energy power plants additionally saw increase in poverty, but generally to lesser degrees of severity: Converse County (1 wind farm, 2.8% increase in poverty), Carbon County (5 wind farms, 2.8% increase in poverty), Uinta County (2 wind farms, 0.9% increase in poverty), Laramie County (0.4% increase in poverty), and Albany County (0.07% increase in poverty). No coal-fueled power production sites were located in counties that saw decreases in poverty, while one wind farm was located in Natrona County, which saw a .005% decrease.
+
+One new geojson file was created: a geographic feature that has data on county population and poverty levels from the ACS5 2005 - 2009 and 2015 - 2019 study periods and a variable showing how they have changed over time. This file is located in the bin folder. Additionally, two bivariate maps showing poverty levels and counts of power production sites are located in the Maps folder.
 
 What **outputs** will you be creating and how are they directly connected to the class? Explain your bin folder.d

@@ -27,4 +27,4 @@ What did you learn? What is the **analysis** you'll be performing on your data s
 
 One new geojson file will be created: a geographic feature that has data on county population and poverty levels from the ACS5 2005 - 2009 and 2015 - 2019 study periods and a variable showing how they have changed over time. This file will be located in the bin folder. Additionally, two bivariate maps 
 
-What **outputs** will you be creating and how are they directly connected to the class? Explain your bin folder.
+What **outputs** will you be creating and how are they directly connected to the class? Explain your bin folder.d

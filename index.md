@@ -11,7 +11,7 @@
 
 Using R and QGIS, this project created bivariate maps to explore the spatial relationships between poverty levels and regional power production facilities.
 
-[<img src="lab6/maps/wy_wind_poverty.png">](lab6/index)
+[<img src="lab6/maps/wy_wind_poverty.png">](lab6/index.md)
 
 ---
 

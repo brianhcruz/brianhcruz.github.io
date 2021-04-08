@@ -12,7 +12,7 @@ date: 2021/04/10
 
 ## Setup
 
-To begin, I loaded the packages required to download and process the data. The 'tidyverse package' is a collection of other packages which facilitate general data science functions, while the 'tidycensus' packages facilitate easy downloading of Census Bureau data for analysis and manipulation with 'tidyverse' features. The 'sf' package allows reading and encoding spatial vector data. A personal API key is also required to be able to download Census Bureau data with the tidycensus package. 
+To begin, I loaded the packages required to download and process the data. The `tidyverse package` is a collection of other packages which facilitate general data science functions, while the `tidycensus` packages facilitate easy downloading of Census Bureau data for analysis and manipulation with `tidyverse` features. The `sf` package allows reading and encoding spatial vector data. A personal API key is also required to be able to download Census Bureau data with the tidycensus package. 
 
 ```{r}
 
@@ -68,7 +68,7 @@ st_write(wy_poverty_line_09, "wy_pov_line_09.csv")
 ```
 ## Calculate percentages of county populations whose earnings were below the federal poverty line
 
-Because of the small population sizes of Wyoming's counties, using the percentages of the populations living in poverty provides a clearer picture of the scope and significance of any changes than raw numbers. To calculate this, I simply divided each county's total population of people living below the poverty line by their total populations. The function below generates a new column in each tabular dataset (labeled per_pop) which is then populated with these percentages.
+Because of the small population sizes of Wyoming's counties, using the percentages of the populations living in poverty provides a clearer picture of the scope and significance of any changes than raw numbers. To calculate this, I simply divided each county's total population of people living below the poverty line by their total populations. The function below generates a new column in each tabular dataset (labeled `per_pop`) which is then populated with these percentages.
 
 ```{r}
 
@@ -83,7 +83,7 @@ wy_poverty_line_09$per_pop <- wy_poverty_line_09$pop_below_pov_lineE/wy_poverty_
 
 ## Join the two files and calculate the change over time in percentages of the population whose earnings were below the federal poverty line.
 
-Finally, a new dataset was created by joining the data from our two starting ones. This one is labeled 'wy_poverty_line', and is made by executing a left join to pair the tables based on a common variable (GEOID). The last transformation entailed calculating the change over time in the poverty levels of the counties, done by subtracting the 2005 - 2009 data from the 2015 - 2019 data. This generated a new column (labeled 'change') which displays the net change in percentage of people who earned poverty wages. Positive percentages show increases in poverty levels, while negative ones indicate decreases.
+Finally, a new dataset was created by joining the data from our two starting ones. This one is labeled `wy_poverty_line`, and is made by executing a left join to pair the tables based on a common variable (GEOID). The last transformation entailed calculating the change over time in the poverty levels of the counties, done by subtracting the 2005 - 2009 data from the 2015 - 2019 data. This generated a new column (labeled `change`) which displays the net change in percentage of people who earned poverty wages. Positive percentages show increases in poverty levels, while negative ones indicate decreases.
 
 ```{r}
 

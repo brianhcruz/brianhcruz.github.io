@@ -7,7 +7,7 @@
 
 ---
 
-### [Wyoming's Changing Economies of Energy Production](lab6/index)
+### [Wyoming's Changing Economies of Energy Production](lab6/index.md)
 
 Using R and QGIS, this project created bivariate maps to explore the spatial relationships between poverty levels and regional power production facilities.
 

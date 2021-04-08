@@ -4,7 +4,17 @@
 
 
 ## GIS Projects
+
 ---
+
+### [Wyoming's Changing Economies of Energy Production](lab6/index)
+
+Using R and QGIS, this project created bivariate maps to explore the spatial relationships between poverty levels and regional power production facilities.
+
+[<img src="lab6/maps/wy_wind_poverty.png">](lab6/index)
+
+---
+
 
 ### [Rock Climbers vs. Big Copper](project1_486/index.md)
 

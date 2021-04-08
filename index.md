@@ -7,9 +7,9 @@
 
 ---
 
-### [Wyoming's Changing Economies of Energy Production](lab6/index.md)
+### [Energy Production Facilities and Poverty Levels in Wyoming](lab6/index.md)
 
-Using R and QGIS, this project created bivariate maps to explore the spatial relationships between poverty levels and regional power production facilities.
+Using R and QGIS, this project explored the spatial relationships between County poverty levels and power production facilities in Wyoming with bivariate choropleth maps.
 
 [<img src="lab6/maps/wy_wind_poverty.png">](lab6/index.md)
 

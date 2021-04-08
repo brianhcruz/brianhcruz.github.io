@@ -12,7 +12,7 @@ date: 2021/04/10
 
 ## Setup
 
-To begin, I loaded the packages required to download and process the data. The *tidyverse package* is a collection of other packages which facilitate general data science functions, while the `tidycensus` packages facilitate easy downloading of Census Bureau data for analysis and manipulation with *tidyverse* features. The *sf* package allows us to read and andencode spatial data in R. A personal API key is also needed to download Census Bureau data with the *tidyverse* package.
+To begin, I loaded the packages required to download and process the data. The *tidyverse package* is a collection of other packages which facilitate general data science functions, while the *tidycensus* packages facilitate easy downloading of Census Bureau data for analysis and manipulation with *tidyverse* features. The *sf* package allows us to read and andencode spatial data in R. A personal API key is also needed to download Census Bureau data with the *tidyverse* package.
 
 ```{r}
 
@@ -29,7 +29,7 @@ census_api_key("XXXXXXX") #use your own personal API Key here
 ```
 ## Downloading Census Data
 
-The next step was to download the data that would be necessary for the project. These were two variables from two ACS5 surveys: the "Total Income in the Past 12 months Below the Poverty Level" and "Total Population" data for every county in Wyoming. These variables were downloaded from the 2005 - 2009 ACS5 survey and the 2015 - 2019 ACS5 survey. Because only one set of geographic features is necessary for this project, only geospatial data were included for the 2015 - 2019 survey; the 2009 - 2005 data was exported only as a .CSV file. More information about these variables and others available through the ACS5 survey can be found in Social Explorer's Data Dictionary: https://www.socialexplorer.com/data/ACS2019_5yr/metadata/?ds=ACS19_5yr
+The next step was to download the data that would be necessary for the project. These were two variables from two ACS5 surveys: the *Total Income in the Past 12 months Below the Poverty Level* and *Total Population* data for every county in Wyoming. These variables were downloaded from the 2005 - 2009 ACS5 survey and the 2015 - 2019 ACS5 survey. Because only one set of geographic features is necessary for this project, only geospatial data were included for the 2015 - 2019 survey; the 2009 - 2005 data was exported only as a .CSV file. More information about these variables and others available through the ACS5 survey can be found in Social Explorer's Data Dictionary: https://www.socialexplorer.com/data/ACS2019_5yr/metadata/?ds=ACS19_5yr
 
 ```{r}
 #Load ACS5 data from 2014 - 2019
@@ -68,7 +68,7 @@ st_write(wy_poverty_line_09, "wy_pov_line_09.csv")
 ```
 ## Calculate percentages of county populations whose earnings were below the federal poverty line
 
-Because of the small population sizes of Wyoming's counties, using the percentages of the populations living in poverty provides a clearer picture of the scope and significance of any changes than raw numbers. To calculate this, I simply divided each county's total population of people living below the poverty line by their total populations. The function below generates a new column in each tabular dataset (labeled `per_pop`) which is then populated with these percentages.
+Because of the small population sizes of Wyoming's counties, using the percentages of the populations living in poverty provides a clearer picture of the scope and significance of any changes than raw numbers. To calculate this, I simply divided each county's total population of people living below the poverty line by their total populations. The function below generates a new column in each tabular dataset (labeled *per_pop*) which is then populated with these percentages.
 
 ```{r}
 
@@ -83,7 +83,7 @@ wy_poverty_line_09$per_pop <- wy_poverty_line_09$pop_below_pov_lineE/wy_poverty_
 
 ## Join the two files and calculate the change over time in percentages of the population whose earnings were below the federal poverty line.
 
-Finally, a new dataset was created by joining the data from our two starting ones. This one is labeled `wy_poverty_line`, and is made by executing a left join to pair the tables based on a common variable (GEOID). The last transformation entailed calculating the change over time in the poverty levels of the counties, done by subtracting the 2005 - 2009 data from the 2015 - 2019 data. This generated a new column (labeled `change`) which displays the net change in percentage of people who earned poverty wages. Positive percentages show increases in poverty levels, while negative ones indicate decreases.
+Finally, a new dataset was created by joining the data from our two starting ones. This one is labeled *wy_poverty_line*, and is made by executing a left join to pair the tables based on a common variable (GEOID). The last transformation entailed calculating the change over time in the poverty levels of the counties, done by subtracting the 2005 - 2009 data from the 2015 - 2019 data. This generated a new column (labeled *change*) which displays the net change in percentage of people who earned poverty wages. Positive percentages show increases in poverty levels, while negative ones indicate decreases.
 
 ```{r}
 

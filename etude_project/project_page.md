@@ -25,6 +25,6 @@ I also assisted in planning and overseeing a large gender sensitization program 
 <img src="/images/2017-08-05 12.26.02.jpg"> <img src="/images/20170308_092741.jpg">
 
 ### Administrative Support and Program Backstopping
-Due to my outstanding performance throughout the first year of my service, I was selected by the program headquarters to act as both a regional security warden and a volunteer trainer for the incoming cohort of volunteers in 2017.
+Due to my outstanding performance throughout the first year of my service, I was selected by the program headquarters to act as both a regional security warden and a volunteer trainer for the incoming cohort of volunteers in 2017. For the 2017 volunteer cohort, I provided mentoring and model teaching over the course of one week of their training program, facilitating cross-cultural instructional methodology workshops and reflection sessions. I further received training on planning and executing countrywide emergency lockdown and evacuation protocols; this training was, unfortunately put to use in September 2017, at which point the entire Peace Corps Burkina program was evacuated due to ongoing regional security threats.
 
 

@@ -12,7 +12,7 @@ date: 2021/04/10
 
 ## Setup
 
-To begin, I loaded the packages required to download and process the data. The *tidyverse package* is a collection of other packages which facilitate general data science functions, while the *tidycensus* packages facilitate easy downloading of Census Bureau data for analysis and manipulation with *tidyverse* features. The *sf* package allows us to read and andencode spatial data in R. A personal API key is also needed to download Census Bureau data with the *tidyverse* package.
+To begin, I loaded the packages required to download and process the data. The *tidyverse* package is a collection of other packages which facilitate general data science functions, while the *tidycensus* packages facilitate easy downloading of Census Bureau data for analysis and manipulation. The *sf* package allows us to read and and encode spatial features in R. A personal API key is also needed to download Census Bureau data with the *tidyverse* package.
 
 ```{r}
 

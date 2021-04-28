@@ -16,22 +16,6 @@
         }
         </style>
         <title>Latino Population and Median Household Income</title>
-        </style>
-    #content {
-        position: relative;
-    }
-    #content img {
-        position: absolute;
-        top: 50px;
-        right: 50px;
-        width: 300px;
-        height: 300px;
-    }
-    </style>
-<div id="legend">
-    <img src="/lab8/bi_legend.png" class="ribbon"/>
-    <div> </div>
-</div>
     </head>
     <body>
         <div id="map">
@@ -276,6 +260,16 @@
                     this._div.innerHTML = ' Charles County, Maryland<br />2015 - 2019 ACS5 Estimates';
             };
             abstract.addTo(map);
+             var legend = new L.Control();
+            legend.onAdd = function (map) {
+                this._div = L.DomUtil.create('div', 'info');
+                this.update();
+                return this._div;
+            };
+            legend.update = function () {
+                this._div.innerHTML = '<h3><img src="/lab8/bi_legend.png" class="ribbon"/></h3>';
+            };
+            legend.addTo(map) 
         setBounds();
         </script>
     </body>

@@ -9,7 +9,7 @@
 
 ### [Bivariate Mapping of Race/Ethnicity and Income](https://brianhcruz.github.io/lab8/lab_8_map/index.html#10/38.5148/-76.9565)
 
-This webmap was produced using the Tidycensus & Biscale packages to create a bivariate variable for both median household income and estimated population that identify as hispanic or latino in Charles County, MD.
+This webmap was produced using the Tidycensus & Biscale packages in R studio to create a bivariate variable to compare the median household income and estimated Hispanic/Latino populations of census tracts in Charles County, MD. 
 
 [<img src="lab8/bi_map.png">](https://brianhcruz.github.io/lab8/lab_8_map/index.html#10/38.5148/-76.9565)
 

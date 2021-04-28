@@ -19,6 +19,21 @@
     </head>
     <body>
         <div id="map">
+                      <style>
+    #content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+</style>
+
+<div id="legend">
+    <img src="/lab8/bi_legend.png" class="ribbon"/>
+    <div>some text...</div>
+</div>
         </div>
         <script src="js/qgis2web_expressions.js"></script>
         <script src="js/leaflet.js"></script>
@@ -261,21 +276,6 @@
             };
             abstract.addTo(map);
         setBounds();
-               <style>
-    #content {
-        position: relative;
-    }
-    #content img {
-        position: absolute;
-        top: 0px;
-        right: 0px;
-    }
-</style>
-
-<div id="content">
-    <img src="/lab8/bi_legend.png" class="ribbon"/>
-    <div>some text...</div>
-</div>
         </script>
     </body>
 </html>

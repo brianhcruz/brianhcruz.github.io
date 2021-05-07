@@ -67,14 +67,6 @@ A city with a long history of food access inequality, this project interrogated 
 # Other Projects
 ---
 
-### [Shriver Peaceworker Digital Stories](peaceworker/index.md)
-
-Check out the digital stories I produced as part of my graduate fellowship at the University of Maryland, Baltimore County
-
-[<img src="images/SAM_1360.jpg"/>](peaceworker/index.md)
-
----
-
 ### [Peace Corps Service](etude_project/project_page.md)
 
 Learn about my Peace Corps service in Burkina Faso from 2016 - 2017

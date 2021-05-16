@@ -344,6 +344,17 @@
                     this._div.innerHTML = 'While far from being a causal relationship, the presence of rock climbing sites within census tracts is correlated to lower localized diversity. The presence of climbing sites was also observed as being linked to decreasing diversity over time based on population estimates spanning 2010 - 2019. Positive correlations were further established between the presence of climbing sites and rates of college-level education; however, no statistically significant variation in median income was detected based on the presence of climbing sites.<br /><br />How do your local crags stack up? Hover over your local area for some basic statistical information!<br /><br />Diversity estimates were calculated using Simpson\'s Diversity Index: https://en.wikipedia.org/wiki/Diversity_index<br />Data on climbing sites sourced from Mountain Project: https://www.mountainproject.com/area/105708962/arizona<br />Demographic data sourced from the U.S. Census Bureau\'s 2010 - 2014 and 2015 - 2019  ACS 5 surveys<br />Color scheme by Joshua Stevens: https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/<br />Basemap: ESRI Dark Gray';
             };
             abstract.addTo(map);
+              abstract.addTo(map);
+             var legend = new L.Control();
+            legend.onAdd = function (map) {
+                this._div = L.DomUtil.create('div', 'info');
+                this.update();
+                return this._div;
+            };
+            legend.update = function () {
+                this._div.innerHTML = '<h3><img src="/486_final/div_biscale.png" class="ribbon"/></h3>';
+            };
+            legend.addTo(map) 
         setBounds();
         </script>
     </body>

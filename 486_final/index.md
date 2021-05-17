@@ -21,20 +21,20 @@ A final web map was produced to illustrate the data for the 2015 – 2019 census
 
 Out of Arizona’s 1,526 census tracts, 94 contain rock climbing features which are publicized on Mountain Project. The 5 census tracts with the highest concentrations are: Tract 40.52 in Pima County (290 features), Tract 4 in Cochise County (137), Tracts 16, 22, and 15 in Coconino County (114, 107, and 104 features respectively). The average number of climbing features per census tract is 18.20 and the median is 3. Moreover, the mean and median Simpson’s Diversity Index scores for tracts overall were 0.557 and 0.546 respectively.   Geographic distributions of these data are displayed in figures 1 and 2 below.  Bivariate maps were subsequently produced comparing the presence of climbing features to diversity as well as the other variables of interest, shown in figures 3 – 6. 
 
-<img src = "images/AZ Climbing Feature Density.png">
+<img src = "Images/AZ Climbing Feature Density.png">
 
 Figure 1
  
-<img src = "images/Arizona Diversity 2019.png">
+<img src = "Images/Arizona Diversity 2019.png">
 Figure 2
  
-<img src = "images/climbing_diversity_2019_map.png">
+<img src = "Images/climbing_diversity_2019_map.png">
 Figure 3
 
-<img src = "images/az_climbing_inc_19.png">
+<img src = "Images/az_climbing_inc_19.png">
 Figure 4
  
-<img src = "images/climbing_ed_19.png">
+<img src = "Images/climbing_ed_19.png">
 Figure 5
  
 Visually, these maps appear to indicate potential negative relationships between local demographic diversity and climbing features, positive ones between education and climbing features, and ambiguous ones concerning individual income. Several statistical tests thereafter clarified the scope and nature of these correlations.
@@ -42,14 +42,14 @@ Visually, these maps appear to indicate potential negative relationships between
 At the .05 significance level, overall diversity of within census tracts was determined to be statistically significantly less in tracts where rock climbing sites are present, with non-climbing tracts having a mean Simpson’s Diversity index of 0.584 compared to 0.559 in tracts with climbing. Moreover, the populations of people who identify as black, Asian, Native Hawaiian/Pacific Islander, other races, and two or more races were shown to be statistically significantly lower in census tracts with climbing features. Hispanic, white, and Native American populations showed no statistically significant differences when grouped in this way. These distinctions are visualized in Figure 6. Regression analyses of all of these relationships indicated minimal causality on the part of the presence of climbing features, with all relationships having R2 values of less than .01. This indicates that, from the distinctions between overall diversity to the distinctions found within each racial or ethnic group, the presence of climbing features themselves is related to, but not a cause of decreased diversity. Complete results of T-tests and Regression analyses are compiled in Appendix B.
 
  
-<img src = "images/horlizongal_diversity_graph.png">
+<img src = "Images/horlizongal_diversity_graph.png">
 Figure 6
 
 Further testing showed no statistically significant distinctions between median individual income with the presence of climbing features, but census tracts with climbing features were found to have statistically higher (at the .05 level) percentages of their populations with bachelor’s degrees  on average (24% vs. 20%). Much like the correlations between diversity and climbing features, however, regression analyses showed minimal causality on the part of climbing features (R2 = <.01).
 To examine these relationships over time, the same statistical tests were carried out using the change-over-time variables for the diversity index, income, and education. T-tests revealed that there was only a statistically significant difference in changes in diversity (at the .05 level) over time in census tracts with or without rock climbing features. A regression analysis indicated a slight negative correlation between climbing sites and growth in diversity, however with a very low causal relationship (R2 = <.01). These changes are illustrated below in Figure 7. 
 
 
-<img src = "images/climbing_diversity_change.png">
+<img src = "Images/climbing_diversity_change.png">
 Figure 7
 
 ## Discussion & Conclusion

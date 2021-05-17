@@ -16,7 +16,7 @@ An interactive bivariate webmap showing all of this data at the census tract lev
 
 ## Project Page Structure
 Data produced and used in this project can be found in the Data folder. This includes tabular data and spatial objects.
-The R Markdown script used to download and process the census data is located in the Code folder.
+The R Markdown script used to download and process the census data is located in the Code folder. Printed outputs of the data processes from Stata can also be found here.
 The webmap materials are located in the 486_final_webmap folder.
 Maps and other images can be found in the Images folder.
 An overall project write-up is in the index.md file.

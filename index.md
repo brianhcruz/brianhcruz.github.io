@@ -7,6 +7,14 @@
 
 ---
 
+### [Crag Equity: Rock Climbing Sites and Local Demographics in Arizona](486_final/index.md)
+
+This project explored the relationships between sites of rock climbing activity and local demographics, including race/ethnicity, median individual income, and level of education at the census-tract leve.
+
+[<img src="486_final/Images/climbing_diversity_2019_map.png">](486_final/index.md)
+
+---
+
 ### [Bivariate Mapping of Race/Ethnicity and Income](https://brianhcruz.github.io/lab8/lab_8_map/index.html#10/38.5148/-76.9565)
 
 This webmap was produced using the Tidycensus & Biscale packages in R studio to create a bivariate variable to compare the median household income and estimated Hispanic/Latino populations of census tracts in Charles County, MD. 

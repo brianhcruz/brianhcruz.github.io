@@ -28,13 +28,13 @@ Figure 1
 <img src = "Images/Arizona Diversity 2019.png">
 Figure 2
  
-<img src = "Images/climbing_diversity_2019_map.png">
+<img src = "Images/diversity_index_climbing.png">
 Figure 3
 
-<img src = "Images/az_climbing_inc_19.png">
+<img src = "Images/income_map.png">
 Figure 4
  
-<img src = "Images/climbing_ed_19.png">
+<img src = "Images/ed_map.png">
 Figure 5
  
 Visually, these maps appear to indicate potential negative relationships between local demographic diversity and climbing features, positive ones between education and climbing features, and ambiguous ones concerning individual income. Several statistical tests thereafter clarified the scope and nature of these correlations.

@@ -11,7 +11,7 @@
 
 This project explored the relationships between sites of rock climbing activity and local demographics, including race/ethnicity, median individual income, and level of education at the census-tract leve.
 
-[<img src="486_final/Images/climbing_diversity_2019_map.png">](486_final/index.md)
+[<img src="486_final/Images/diversity_index_climbing.png">](486_final/index.md)
 
 ---
 

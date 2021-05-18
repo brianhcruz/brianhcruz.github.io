@@ -49,7 +49,7 @@ Further testing showed no statistically significant distinctions between median 
 To examine these relationships over time, the same statistical tests were carried out using the change-over-time variables for the diversity index, income, and education. T-tests revealed that there was only a statistically significant difference in changes in diversity (at the .05 level) over time in census tracts with or without rock climbing features. A regression analysis indicated a slight negative correlation between climbing sites and growth in diversity, however with a very low causal relationship (R2 = <.01). These changes are illustrated below in Figure 7. 
 
 
-<img src = "Images/change_map.png">
+<img src = "Images/div_change_map.png">
 Figure 7
 
 ## Discussion & Conclusion

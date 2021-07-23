@@ -39,8 +39,6 @@ Figure 4
 [<img src = "Images/ed_map.png">](https://brianhcruz.github.io/486_final/webmap/index.html#6/33.797/-112.917)
 Figure 5
  
-Visually, these maps appear to indicate potential negative relationships between local demographic diversity and climbing features, positive ones between education and climbing features, and ambiguous ones concerning individual income. Several statistical tests thereafter clarified the scope and nature of these correlations.
-
 At the .05 significance level, overall diversity of within census tracts was determined to be statistically significantly less in tracts where rock climbing sites are present, with non-climbing tracts having a mean Simpson’s Diversity index of 0.584 compared to 0.559 in tracts with climbing. Moreover, the populations of people who identify as black, Asian, Native Hawaiian/Pacific Islander, other races, and two or more races were shown to be statistically significantly lower in census tracts with climbing features. Hispanic, white, and Native American populations showed no statistically significant differences when grouped in this way. These distinctions are visualized in Figure 6. Regression analyses of all of these relationships, however, effectively showed no correlation on the part of the presence of climbing features, with all relationships having R2 values of less than .01.
 
  
